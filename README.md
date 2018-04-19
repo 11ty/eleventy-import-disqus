@@ -88,7 +88,7 @@ _posts/
 
 Eleventy will now make this JSON data available automatically in our markdown template (these are known as [Template Specific Data Files](https://github.com/11ty/eleventy/blob/master/docs/data.md#template-and-directory-specific-data-files)).
 
-Here’s how I used it (this is in my `post.liquid` layout template specifically for blog posts):
+Here’s how I used it (for maximum re-use, put it in a layout template—mine is `_includes/layouts/post.liquid`—otherwise you can use this on any template that might have one of our Disqus JSON comment files):
 
 ```html
 <div class="static-comments">
@@ -102,7 +102,7 @@ Here’s how I used it (this is in my `post.liquid` layout template specifically
 </div>
 ```
 
-Note that each `*.json` comment file has a top level `disqus` key in the object. We are referencing that in the template.
+Note that each Disqus JSON comment file has a top level `disqus` key in the object. We are referencing that in the template.
 
 And then `comment-entry.html` file in `_includes/`:
 
@@ -125,14 +125,12 @@ I using `comment-postId` as the linkable ID for each individual comment to reuse
 For good measure, here’s the CSS I used:
 
 ```css
-.static-comments {
-    font-size: 80%;
-}
 .static-comments-reply {
     margin: 1em 0 3em;
 }
 .static-comments-reply > .static-comments-reply {
     margin-top: 2em;
+    /* This is where the threading magic happens */
     padding-left: 1.5em;
     border-left: 4px solid #eee;
 }
@@ -150,12 +148,17 @@ For good measure, here’s the CSS I used:
     clear: both;
     line-height: 1.7;
     margin-top: 1em;
-    @include clearfix;
 }
 .static-comments-date {
     float: left;
     clear: left;
-    font-size: 85%;
+    font-size: 0.8125em; /* 13px /16 */
+}
+@media (min-width: 25em) { /* 400px */
+    .static-comments-date {
+        float: right;
+        clear: none;
+    }
 }
 
 /* Clearfixes */
@@ -169,11 +172,5 @@ For good measure, here’s the CSS I used:
 .static-comments-hed:after,
 .static-comments-msg:after {
     clear: both;
-}
-@media (min-width: 25em) { /* 400px */
-    .static-comments-date {
-        float: right;
-        clear: none;
-    }
 }
 ```
