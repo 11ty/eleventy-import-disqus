@@ -4,8 +4,9 @@
   "description": " A manual process to import existing exported disqus.xml content into an eleventy blog.",
   "main": "parser.js",
   "scripts": {
-    "default": "npm run parse",
-    "parse": "node parser.js"
+    "default": "npm run parse && npm run copy",
+    "parse": "node parser.js",
+    "copy": "echo \"Add your cp command here for output/ files.\""
   },
   "keywords": ["eleventy"],
   "author": {
