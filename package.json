@@ -1,7 +1,7 @@
 {
   "name": "eleventy-import-disqus",
   "version": "1.0.0",
-  "description": "",
+  "description": " A manual process to import existing exported disqus.xml content into an eleventy blog.",
   "main": "parser.js",
   "scripts": {
     "default": "npm run parse",
