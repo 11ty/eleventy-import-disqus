@@ -32,7 +32,7 @@ Example disqus.xml thread url:
   <link>https://www.zachleat.com/web/23-minutes/</link>
 ```
 
-This script will normalizes to the URL path, extracting `/web/23-minutes/` as the key. In my case, this url maps to `./_posts/2017-11-21-23-minutes-font-loading.md`. Each comment thread will need a map entry.
+This script will normalizes to the URL path, extracting `/web/23-minutes/` as the key (it will remove query parameters and de-dupe those threads). In my case, this url maps to `./_posts/2017-11-21-23-minutes-font-loading.md`. Each comment thread will need a map entry.
 
 Open up `input/contentMap.json` to see an example.
 
