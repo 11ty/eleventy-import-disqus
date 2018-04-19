@@ -1,14 +1,21 @@
 # eleventy-import-disqus
 
+This is an intermediate step to migrate off of Disqus altogether but keep static copies of existing comment content.
+
 ## [Live demo](https://www.zachleat.com/web/23-minutes/) (scroll down)
 
 ## Benefits:
 
+* Way speedier than Disqus and no third party JS.
 * Comments available without JS.
 * Properly maintains threading.
 * Uses gravatar for avatar images.
 * Works with any existing links to Disqus comments in the wild (and there isn’t an annoying delay while the Disqus loads and jumps to the comment).
 * Full control over markup and style of comments (samples provided below).
+
+## Drawbacks:
+
+You’ll need a new mechanism to _add_ comments.
 
 ## Get your Disqus XML
 
