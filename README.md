@@ -1,12 +1,14 @@
 # eleventy-import-disqus
 
+## [Live demo](https://www.zachleat.com/web/23-minutes/) (scroll down)
+
 ## Benefits:
 
 * Comments available without JS.
 * Properly maintains threading.
 * Uses gravatar for avatar images.
-
-## [Live demo](https://www.zachleat.com/web/23-minutes/#comments)
+* Works with any existing links to Disqus comments in the wild (and there isn’t an annoying delay while the Disqus loads and jumps to the comment).
+* Full control over markup and style of comments (samples provided below).
 
 ## Get your Disqus XML
 
