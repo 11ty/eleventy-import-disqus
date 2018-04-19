@@ -1,0 +1,21 @@
+{
+  "name": "eleventy-import-disqus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "default": "npm run parse",
+    "parse": "node parser.js"
+  },
+  "keywords": ["eleventy"],
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "xml2js": "^0.4.19"
+  }
+}

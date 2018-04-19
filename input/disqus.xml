@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<disqus xmlns="http://disqus.com" xmlns:dsq="http://disqus.com/disqus-internals" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://disqus.com/api/schemas/1.0/disqus.xsd http://disqus.com/api/schemas/1.0/disqus-internals.xsd">
+	<category dsq:id="813386">
+		<forum>web367</forum>
+		<title>General</title>
+		<isDefault>true</isDefault>
+	</category>
+	<thread dsq:id="6299827004">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-11-21T14:40:55Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6302307120">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=4a453b586e5f41eb9a302a1306aad327&amp;uid=1640690610&amp;nid=244+276893704</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-11-22T13:35:39Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6322782103">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=09c21b17769642d1b0870865ebfe2a88&amp;uid=30735313&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-01T16:39:34Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6323236266">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=6a1c4f0a9b3f4c548bd01f20503d5f26&amp;uid=855068964&amp;nid=244+281088008</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-01T20:54:58Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6323317876">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=df912438cf954648994d9924671dbe74&amp;uid=15061711&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-01T21:47:57Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6323427720">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjcw%3D%3D&amp;refsrc=email&amp;iid=230e9bb0ee1044ee913d53db8a9e3ee8&amp;uid=738894808974921731&amp;nid=244+281088008</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-01T23:05:26Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6323957128">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=9d270ec029b74a79aef22bd7550af61b&amp;uid=3302310624&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-02T06:45:59Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6324100939">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjcw%3D%3D&amp;refsrc=email&amp;iid=bc321dfd662441b6965046db991b3db3&amp;fl=4&amp;uid=847851808169095168&amp;nid=244+289476616</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-02T08:58:18Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6324130439">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=9d52e8ac6f894b349b2063e9a19eca69&amp;uid=328759338&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-02T09:22:01Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6324561105">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjcw%3D%3D&amp;refsrc=email&amp;iid=4d9937dd36144d52b4b2696af66f2eae&amp;uid=745650716270800896&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-02T14:34:18Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6324842985">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=88299c82f1b84bfc827be4313d6019e3&amp;fl=4&amp;uid=25444593&amp;nid=244+289476616</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-02T17:24:23Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6325075377">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=2f4332f53c7049b7be26b25e5f28c052&amp;fl=4&amp;uid=860887707760852996&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-02T19:49:02Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6325188228">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=3014db5a2ea94cf4a89ac1ab94658a5c&amp;uid=2655135630&amp;nid=244+285282312</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-02T21:04:38Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6325437454">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=e5aaea59071349699580e8fb0a643d7d&amp;uid=360761433&amp;nid=244+276893704</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-03T00:08:27Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6325725646">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=bd6ecd61e7f74f1f8c863a66ca875bf4&amp;uid=158031330&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-03T04:32:17Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6327204460">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjcw%3D%3D&amp;refsrc=email&amp;iid=dce791670ec04e36a0be7895fdbcd35a&amp;fl=4&amp;uid=440459081&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-03T22:45:50Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6327616023">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=2d53875ea62f4d9a855085622c930108&amp;uid=742728935641845760&amp;nid=244+276893704</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-04T04:51:16Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6327881345">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjcw%3D%3D&amp;refsrc=email&amp;iid=b3c26aa44abb443f991529762b7fa795&amp;fl=4&amp;uid=28577342&amp;nid=244+276893704</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-04T08:23:22Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6327911507">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=32bcb1d52b6d4a5d8bb5f8e5e8d32f76&amp;uid=61725154&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-04T08:46:17Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6327966081">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjcw%3D%3D&amp;refsrc=email&amp;iid=9d8e961e29e5401b80d79bb6955c0c6a&amp;uid=1144904124&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-04T09:24:36Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6328009682">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=42dc4a71cfc34bea882642124c6f522e&amp;uid=291790911&amp;nid=244+281088008</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-04T09:55:08Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6328545737">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=82d2476a5d3341c59ee4b86c961694aa&amp;uid=817864310&amp;nid=244+272699400</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-04T15:16:12Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6328600179">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjcw%3D%3D&amp;refsrc=email&amp;iid=56c6b88925504c4c971f6b5fb90016fd&amp;uid=2657018462&amp;nid=244+285282312</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-04T15:44:32Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6332097491">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=b90f782d5cb746ccbd0d6d207bd67305&amp;fl=4&amp;uid=2756866253&amp;nid=244+276893704</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-06T06:48:48Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6342472268">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/23-minutes/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvTUFi9MNQv2MGde%2F%2BVJSAg%3D%3D</link>
+		<title>23 Minutes of Work for Better Font Loading</title>
+		<message />
+		<createdAt>2017-12-11T12:02:29Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="6382097399">
+		<id />
+		<forum>web367</forum>
+		<category dsq:id="813386" />
+		<link>https://www.zachleat.com/web/comprehensive-webfonts/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=e3dfe6bfa58e49cda867e0e2f496161c&amp;uid=805103250047238144&amp;nid=244+272699400</link>
+		<title>A Comprehensive Guide to Font Loading Strategies</title>
+		<message />
+		<createdAt>2017-12-31T00:35:48Z</createdAt>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<post dsq:id="3626973055">
+		<id />
+		<message><![CDATA[<p>Nice work, Zach. Really digging in deep like that for performance always leads to a way better overall experience that people may not consciously appreciate—but it makes the web a better place.</p><p>Before today I wasn't aware of font-display: Swap. Appreciate the help!</p>]]></message>
+		<createdAt>2017-11-21T20:04:50Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>Jeff Golenski</name>
+			<isAnonymous>false</isAnonymous>
+			<username>JeffGolenski</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+	</post>
+	<post dsq:id="3634335280">
+		<id />
+		<message><![CDATA[<p>I think preload is great but think you should add info on how one can feature detect support for link rel=preload</p>]]></message>
+		<createdAt>2017-11-27T03:16:11Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>Curt</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+	</post>
+	<post dsq:id="3634384546">
+		<id />
+		<message><![CDATA[<p>Shouldn’t need to feature detect. Fallbacks are built into the @font-face blocks.</p>]]></message>
+		<createdAt>2017-11-27T04:22:36Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+		<parent dsq:id="3634335280" />
+	</post>
+	<post dsq:id="3638994340">
+		<id />
+		<message><![CDATA[<p>Dear Zach, <br>I've been a front end developer for two years. But's i'm not so educated on fonts. So excuse me for asking!</p><p>1. subset the fonts automatically to the code points used on the actual site (while also including ASCII<br>→ i have no idea what this sentence means.</p><p>2. What's special about WOFF2, WOFF and TTF? You're saying to avoid OTF right?</p><p>3. What is FOIT and FOUT?</p><p>4. What is font-display: swap?</p>]]></message>
+		<createdAt>2017-11-29T23:40:49Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>Luca Ban</name>
+			<isAnonymous>false</isAnonymous>
+			<username>lucasvanammel</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+	</post>
+	<post dsq:id="3639288751">
+		<id />
+		<message><![CDATA[<p>1. Subsetting is a method to reduce the number of characters stored in a font file. I use `glyphhanger` to find the characters that are used on the actual site (and throw in ASCII just to be sure).</p><p>2. If you have OTF, use it! I like OpenType features. Unfortunately the sources for this site did not have them.</p><p>3/4. This might help: <a href="https://www.zachleat.com/web/webfont-glossary/" rel="nofollow noopener" title="https://www.zachleat.com/web/webfont-glossary/">https://www.zachleat.com/we...</a></p>]]></message>
+		<createdAt>2017-11-30T04:39:11Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+		<parent dsq:id="3638994340" />
+	</post>
+	<post dsq:id="3641719897">
+		<id />
+		<message><![CDATA[<p>I might be confused about this, but I thought that, in order to avoid FOIT, you need to *delay* applying the webfont to the page with JavaScript until after it loads. E.g., I have this on my website:</p><p></p><pre><code>document.fonts.load('1em Roboto').then(() =&gt; {<br>  document.documentElement.style.fontFamily = 'Roboto, sans-serif';<br>});</code></pre><p></p><p>So, do your optimizations prevent FOIT in non-Chrome browsers as well or just in Chrome?</p>]]></message>
+		<createdAt>2017-12-01T16:57:43Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>Šime Vidas</name>
+			<isAnonymous>false</isAnonymous>
+			<username>simevidas</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+	</post>
+	<post dsq:id="3641917492">
+		<id />
+		<message><![CDATA[<p>WOW! As a digital signage company that has to load 30-40 fonts... THANKS!</p>]]></message>
+		<createdAt>2017-12-01T18:38:15Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>Jason Maggard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>jasonmaggard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+	</post>
+	<post dsq:id="3641936228">
+		<id />
+		<message><![CDATA[<p>This is a good question. When you preload, you’re racing for the request to finish before first paint. Subsetting helps there too. So it’s certainly not foolproof, but the theme of this blog post was “quick improvement” and not something I would consider a best practice for something in a more professional setting / client work / my own web site 👀. As preload and font-display browser support broadens though, that could change.</p>]]></message>
+		<createdAt>2017-12-01T18:48:57Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+		<parent dsq:id="3641719897" />
+	</post>
+	<post dsq:id="3643479568">
+		<id />
+		<message><![CDATA[<p>Just a comprehension question: if a new team member called "Estefán Süverkrüpp" has to be listed on the website you just improved, they have to update their webfonts? (assuming ü and á were not used there before...)</p>]]></message>
+		<createdAt>2017-12-02T18:41:35Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>someone</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+	</post>
+	<post dsq:id="3648625036">
+		<id />
+		<message><![CDATA[<p>Correct me if I'm wrong, but this method seems unusable for sites with user-generated content as you can't predict what characters from the font your users will want to use in their content. That being said, on a static site or HTML banner ad, this is a blessing. Wish I had it in my pre-enterprise days. Nice work and thanks!!!</p>]]></message>
+		<createdAt>2017-12-06T01:27:57Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>Lounge9</name>
+			<isAnonymous>false</isAnonymous>
+			<username>Lounge9</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+	</post>
+	<post dsq:id="3649216182">
+		<id />
+		<message><![CDATA[<p>Not correcting you—you’re not wrong 😎</p><p>I’ve had good luck with loading a subset first and then lazy loading the full font later to override! Or your design may be okay with using system fonts for user generated content (I’m okay with Georgia on these Disqus comments, for example).</p>]]></message>
+		<createdAt>2017-12-06T13:32:36Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+		<parent dsq:id="3648625036" />
+	</post>
+	<post dsq:id="3649349595">
+		<id />
+		<message><![CDATA[<p>Great advise!</p><p>I tried applying that to my (german) website. Glyphhanger (nice name) does not find the german "umlauts" though. I tried --UTF8 and --LATIN1 as character sets but it seems to just ignore them. Do you have any advise on that? The documentation of glyphhanger is not very verbose on that.</p><p>the line to create the subset would be the following: glyphhanger <a href="https://samui-samui.de/" rel="nofollow noopener" title="https://samui-samui.de/">https://samui-samui.de/</a> --UTF8 --verbose --subset=assets/fonts/*.ttf</p><p>It does not find the Ö. I guess I will try to implement the trick with loading the full font later on after loading a subset.</p><p>It also does not find the Y ;) very weird.</p>]]></message>
+		<createdAt>2017-12-06T15:08:20Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>Patrick</name>
+			<isAnonymous>false</isAnonymous>
+			<username>davidsneighbour</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+	</post>
+	<post dsq:id="3649531973">
+		<id />
+		<message><![CDATA[<p>Correct. See also <a href="https://www.zachleat.com/web/23-minutes/#comment-3649216182" rel="nofollow noopener" title="https://www.zachleat.com/web/23-minutes/#comment-3649216182">https://www.zachleat.com/we...</a></p><p>You can also whitelist characters or character sets using glyphhanger.</p>]]></message>
+		<createdAt>2017-12-06T17:03:00Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+		<parent dsq:id="3643479568" />
+	</post>
+	<post dsq:id="3649533709">
+		<id />
+		<message><![CDATA[<p>Can you add a new issue for this to <a href="https://github.com/filamentgroup/glyphhanger/issues/new" rel="nofollow noopener" title="https://github.com/filamentgroup/glyphhanger/issues/new">https://github.com/filament...</a></p><p>It may be a timing issue, glyphhanger definitely works with those characters in my tests.</p>]]></message>
+		<createdAt>2017-12-06T17:04:04Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>zachleat</name>
+			<isAnonymous>false</isAnonymous>
+			<username>zachleat</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+		<parent dsq:id="3649349595" />
+	</post>
+	<post dsq:id="3649582197">
+		<id />
+		<message><![CDATA[<p>done :)</p>]]></message>
+		<createdAt>2017-12-06T17:32:50Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>Patrick</name>
+			<isAnonymous>false</isAnonymous>
+			<username>davidsneighbour</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+		<parent dsq:id="3649533709" />
+	</post>
+	<post dsq:id="3650278501">
+		<id />
+		<message><![CDATA[<p>Interesting technique. I definitely have run into where that could work. Thanks for the reply!</p>]]></message>
+		<createdAt>2017-12-07T00:53:56Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>example@example.com</email>
+			<name>Lounge9</name>
+			<isAnonymous>false</isAnonymous>
+			<username>Lounge9</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<thread dsq:id="6299827004" />
+		<parent dsq:id="3649216182" />
+	</post>
+</disqus>
