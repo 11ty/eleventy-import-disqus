@@ -4,6 +4,8 @@ This is an intermediate step to migrate off of Disqus altogether but keep static
 
 ## [Live demo](https://www.zachleat.com/web/23-minutes/) (scroll down)
 
+## Read more at the [Blog post](https://www.zachleat.com/web/disqus-import/)
+
 ## Benefits:
 
 * Way speedier than Disqus and no third party JS.
