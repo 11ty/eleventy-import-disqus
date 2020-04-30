@@ -21,7 +21,7 @@ You’ll need a new mechanism to _add_ comments.
 
 ## Get your Disqus XML
 
-1. Clone this this repository locally.
+1. Clone this repository locally.
 2. [Export your Disqus XML](https://help.disqus.com/developer/comments-export). `Disqus Admin > Community > Export and click "Export".`
 3. Save your Disqus XML file as `input/disqus.xml` (overwrite the sample file).
 
